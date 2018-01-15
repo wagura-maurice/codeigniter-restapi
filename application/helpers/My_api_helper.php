@@ -8,7 +8,7 @@
     * @category        Helpers
     * @author          Wagura Maurice
     * @license         MIT
-    * @link            https://github.com/wagura-maurice/codeigniter-restserver
+    * @link            https://github.com/wagura-maurice/codeigniter-restapi
     * @version         1.0.0
     */
 function remove_unknown_fields($raw_data, $expected_fields) {

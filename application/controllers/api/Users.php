@@ -7,14 +7,14 @@ require APPPATH . 'libraries/REST_Controller.php';
 
 /**
  * This is an example of a few basic User interaction methods you could use
- * all done with a hardcoded array
+ * all done with a mysql database
  *
  * @package         CodeIgniter
  * @subpackage      Rest Server
  * @category        Controller
- * @author          Phil Sturgeon, Chris Kacerguis
+ * @author          wagura maurice
  * @license         MIT
- * @link            https://github.com/chriskacerguis/codeigniter-restserver
+ * @link            https://github.com/wagura-maurice/codeigniter-restapi
  */
 class Users extends REST_Controller {
 

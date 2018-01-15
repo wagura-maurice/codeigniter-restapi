@@ -10,7 +10,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 * @category        Config
 * @author          Wagura Maurice
 * @license         MIT
-* @link            https://github.com/wagura-maurice/codeigniter-restserver
+* @link            https://github.com/wagura-maurice/codeigniter-restapi
 * @version         1.0.0
 */
 
